@@ -113,7 +113,7 @@ print("Decoded:", tok.decode(ids))
 This project aims to be a personal attempt at the tokenization process:
 
 - not optimized for large corpora (in‑memory training)
-- no special tokens (<BOS>/<EOS>/<UNK>), no normalization pipeline
+- no special tokens (`BOS`/`EOS`/`UNK`), no normalization pipeline
 - merge learning is straightforward frequency‑based BPE
 
 For a production tokenizer, consider **tiktoken** or **HuggingFace tokenizers**.
