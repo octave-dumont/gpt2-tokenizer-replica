@@ -4,8 +4,8 @@ This project is a compact implementation of a GPT‑2‑style tokenizer, based o
 
 It includes the following features:
 
-- **Regex pre‑tokenization** using the GPT-4 pattern
-- **Byte‑level base vocabulary** (UTF‑8 bytes `0–255`)
+- **Regex pre‑tokenization using the GPT-4 pattern**
+- Byte‑level base vocabulary (UTF‑8 bytes `0–255`)
 - **Byte‑Pair Encoding (BPE)** merge learning + merge application
 - Simple `train` / `encode` / `decode` / `save` / `load` API
 
