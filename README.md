@@ -119,4 +119,4 @@ This project aims to be a personal attempt at the tokenization process:
 For a production tokenizer, consider **tiktoken** or **HuggingFace tokenizers**.
 
 ---
-
+Link to the source training text: https://www.geeksforgeeks.org/nlp/nlp-how-tokenizing-text-sentence-words-works/
